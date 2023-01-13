@@ -1,0 +1,14 @@
+{
+	"name": "Node.js",
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode",
+				"github.copilot",
+				"bradlc.vscode-tailwindcss"
+			]
+		}
+	}
+}
